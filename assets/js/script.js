@@ -65,7 +65,4 @@ btnClear.addEventListener('click', function () {
     document.querySelector('#heads-percent').textContent = headsPercent + '%'
     document.querySelector('#tails').textContent = tailsCount;
     document.querySelector('#tails-percent').textContent = tailsPercent + '%'
-    console.log(headsPercent);
-    console.log(tailsCount);
-    console.log(tailsPercent);
 })
