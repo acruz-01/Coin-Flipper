@@ -69,15 +69,3 @@ btnClear.addEventListener('click', function () {
     console.log(tailsCount);
     console.log(tailsPercent);
 })
-
-// Update the scoreboard
-        // TODO: Calculate the total number of rolls/flips
-        // Make variables to track the percentages of heads and tails
-        // TODO: Use the calculated total to calculate the percentages
-        // HINT: Make sure not to divide by 0! (if total is 0, percent will be 0 as well)
-        // TODO: Update the display of each table cell
-
-
-    // Clear Button Click Handler
-        // TODO: Reset global variables to 0
-        // TODO: Update the scoreboard (same logic as in flip button click handler)
